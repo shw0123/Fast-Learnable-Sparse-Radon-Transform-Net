@@ -1,5 +1,5 @@
 # Fast-Learnable-Sparse-Radon-Transform-Net
-Python code for a fast learnable sparse Radon transform.
+Python code for the Fast Learnable Sparse Radon Transform Net.
 
 
 FLSRT_Net            ----> for our neural network
